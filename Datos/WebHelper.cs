@@ -21,10 +21,9 @@ namespace Datos
             client.Headers.Add("ContentType", "application/json");
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
         }
-        public static string Get(string url) //cambiar!!!
+        public static string Get(string url)
         {
-            string urlCompleta = rutaBase + url;
-            string responseString = client.DownloadString(urlCompleta);
+            string responseString = client.DownloadString(url);
             return responseString;
         }
         public static string Post(string url, NameValueCollection parametros)
