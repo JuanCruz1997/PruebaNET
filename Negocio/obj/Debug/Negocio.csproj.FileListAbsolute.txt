@@ -1,0 +1,13 @@
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Negocio.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Negocio.pdb
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Datos.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Entidades.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Datos.pdb
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Entidades.pdb
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\obj\Debug\Negocio.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Negocio\obj\Debug\Negocio.pdb

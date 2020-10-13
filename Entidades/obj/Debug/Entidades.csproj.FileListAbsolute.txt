@@ -1,0 +1,9 @@
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\bin\Debug\Entidades.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\bin\Debug\Entidades.pdb
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\obj\Debug\Entidades.dll
+D:\Proyectos\PruebaNET\AppVehiculos\Entidades\obj\Debug\Entidades.pdb
