@@ -70,7 +70,7 @@ namespace Interfaz
         #endregion
         private void Vehiculos_Load(object sender, EventArgs e)
         {
-            CargarListaVehiculos(_vehiculoServicio.TraerVehiculos());
+            //CargarListaVehiculos(_vehiculoServicio.TraerVehiculos());
             CargarMarcas();
             CargarPuertas();
         }
@@ -102,7 +102,7 @@ namespace Interfaz
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            DialogResult pregunta = MessageBox.Show("Salir", "¿Está seguro de que desea salir", MessageBoxButtons.YesNo);
+            DialogResult pregunta = MessageBox.Show("¿Está seguro de que desea salir?", "Salir", MessageBoxButtons.YesNo);
             if (pregunta.ToString() == "Yes")
             {
                 Application.Exit();
